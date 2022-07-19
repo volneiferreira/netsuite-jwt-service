@@ -1,0 +1,10 @@
+{
+  "clientId": "",
+  "certificateId": "",
+  "accountId": "",
+  "scope": [
+    "restlets",
+    "rest_webservices",
+    "suite_analytics"
+  ]
+}
