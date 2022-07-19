@@ -8,12 +8,14 @@
 
 ## Config
 
-Add your configuration data into [config.json](config.json) file.
+1. Add your configuration data into [config.json](config.json) file.
 
 - **clientId**: Client ID generated when the integration was created;
 - **certificateId**: Certificate ID generated when the certificate was added into Netsuite;
 - **accountId**: Your Account ID.
 - **scope**: Scopes used in the integration.
+
+2. Add the private key of your certificate in [private-key](./private-key) folder.
 
 ## Install and run
 
