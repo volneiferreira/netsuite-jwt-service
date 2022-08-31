@@ -1,7 +1,4 @@
 const express = require('express')
-const config = require("./config.json");
-const fs = require("fs");
-const jose = require("jose");
 const app = express()
 const port = 3000
 
